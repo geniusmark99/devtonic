@@ -1,0 +1,26 @@
+{
+"page":"home",
+"content":[
+{
+"section_one":[
+{
+"desc":"Students enrolled in the Power Platform training courses",
+"extra_content":"With the aim of optimizing customer interactions and boosting brand loyalty, our team at Devtonic leveraged powerapps powerful tools and expertise to deliver exceptional results.",
+"num": "15000+"
+},
+{
+"desc":"Customers we have assisted with Power Platform solution",
+"extra_content":"Devtonic embarked on a mission to revolutionize the Power Platform experience.",
+"num": "1000+"
+},
+{
+"desc":"Active Power Platform Project and support customers",
+"extra_content":"With the goal of accelerating project delivery and enhancing collaboration among development teams, DevTonic leveraged GitLab's comprehensive suite of tools and we at DevTonic expertise in digital product development.",
+"num": "230+"
+}
+
+]
+}
+
+]
+}

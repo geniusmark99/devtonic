@@ -8,6 +8,20 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+@layer {
+  .footer-widget {
+    @apply bg-gray-100 relative rounded-xl p-5 sm:py-16 before:absolute before:top-0 before:start-0 before:bg-[url('/public/assets/images/banner-bg-gray.svg')] before:bg-no-repeat before:bg-top before:bg-contain before:w-2/3 before:h-full before:z-0 dark:bg-neutral-950 dark:before:bg-[url('/public/assets/images/banner-bg-gray.svg')]
+  }
+
+  .service-pallette:hover {
+    @apply border-violet-600
+  }
+
+  .service-pallette:hover .service-pallette-link{
+  @apply bg-violet-600
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
