@@ -61,7 +61,7 @@ return <>
       <div className="mt-5">
         <p className="font-semibold text-5xl text-white">230 +</p>
         <h3 className="mt-5 font-medium text-lg text-white">Active Power Platform Project and support customers</h3>
-        <p className="mt-1 text-neutral-400">With the goal of accelerating project delivery and enhancing collaboration among development teams, DevTonic leveraged GitLab's comprehensive suite of tools and we at DevTonic expertise in digital product development.</p>
+        <p className="mt-1 text-neutral-400">With the goal of accelerating project delivery and enhancing collaboration among development teams, DevTonic leveraged GitLab&apos;s comprehensive suite of tools and we at DevTonic expertise in digital product development.</p>
       </div>
     </div>
  

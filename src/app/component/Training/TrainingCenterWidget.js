@@ -41,7 +41,7 @@ export default function TrainingCenterWidget(){
         </svg>
 
         <p className="mt-3 sm:mt-6 text-base text-gray-800 md:text-xl dark:text-white"><em>
-          " I'm absolutely floored by the level of care and attention to detail the team at Devtonic have put into this theme and for one can guarantee that I will be a return customer. "
+        &quot; I&apos;m absolutely floored by the level of care and attention to detail the team at Devtonic have put into this theme and for one can guarantee that I will be a return customer. &quot;
         </em></p>
       </div>
 
@@ -62,7 +62,7 @@ export default function TrainingCenterWidget(){
         </svg>
 
         <p className="mt-3 sm:mt-6 text-base text-gray-800 md:text-xl dark:text-white"><em>
-          " With DevTonic, we're able to easily track our performance in full detail in our Power Platform apps. They become an essential team for us to grow and engage with our audience. "
+        &quot; With DevTonic, we&ampo;re able to easily track our performance in full detail in our Power Platform apps. They become an essential team for us to grow and engage with our audience. &quot;
         </em></p>
       </div>
 
@@ -112,7 +112,7 @@ export default function TrainingCenterWidget(){
         </svg>
 
         <p className="mt-3 sm:mt-6 text-base text-gray-800 md:text-xl dark:text-white"><em>
-          " In September, I will be using DevTonic services for 2 years. I went through multiple updates and changes and I'm very glad to see the consistency and effort made by the team. "
+          &quot; In September, I will be using DevTonic services for 2 years. I went through multiple updates and changes and I&apos;m very glad to see the consistency and effort made by the team. &quot;
         </em></p>
       </div>
 

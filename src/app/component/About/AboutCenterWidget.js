@@ -20,7 +20,7 @@ export default function AboutCenterWidget() {
             Empowering the world with our company.
           </h2>
           <p className="text-lg leading-relaxed text-gray-400 text-center">
-            We're a multi-cultural team from around the world! We come from
+            We&apos;re a multi-cultural team from around the world! We come from
             diverse backgrounds, bringing different personalities, experiences
             and skills to the job. This is what makes our team so special.
           </p>
