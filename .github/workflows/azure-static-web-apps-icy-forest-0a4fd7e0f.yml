@@ -23,6 +23,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
             node-version: 20
+      - name: Clear Git Authentication Headers
+        run: git config --unset-all http.https://github.com/.extraheader
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
