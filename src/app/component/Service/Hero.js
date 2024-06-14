@@ -21,7 +21,7 @@ return <>
     </div>
 
     <div className="mt-5 max-w-3xl text-center mx-auto">
-      <p className="text-lg text-gray-600 dark:text-neutral-400">At <span className="bg-clip-text font-bold italic bg-gradient-to-tr text-transparent from-violet-600 to-cyan-500"> DevTonic</span> we offer you top-notch services</p>
+      <p className="text-lg text-gray-600 dark:text-neutral-400">At <span className="bg-clip-text font-bold italic bg-gradient-to-tr text-transparent from-violet-600 to-cyan-500"> AppAlchemy</span> we offer you top-notch services</p>
     </div>
 
     <div className="mt-10 sm:mt-20 grid grid-cols-2 lg:flex justify-center">

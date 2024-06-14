@@ -59,7 +59,7 @@ return <>
 <div className="bg-neutral-900 mx-4 mt-8">
   <div className="max-w-5xl px-4 xl:px-0 py-10 lg:py-20 mx-auto">
     <div className="max-w-3xl mb-10 lg:mb-14">
-      <h2 className="font-semibold text-2xl md:text-4xl md:leading-tight bg-clip-text text-transparent bg-gradient-to-tl from-cyan-500 to-fuchsia-600">Contact us</h2>
+      <h2 className="font-semibold text-2xl md:text-4xl md:leading-tight bg-clip-text text-transparent bg-gradient-to-tl from-cyan-500 to-blue-600">Contact us</h2>
       <p className="mt-1 text-neutral-400">Whatever your goal - we will get you there.</p>
     </div>
 

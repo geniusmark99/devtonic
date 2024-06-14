@@ -7,7 +7,7 @@ export default function TrainingCenterWidget(){
     <div className="mt-5 max-w-2xl text-center mx-auto">
       <h1 className="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-neutral-200 leading-8">
         WANT to boost your &nbsp;
-        <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">Power Platform Skills?</span>
+        <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-cyan-600 text-transparent">Power Platform Skills?</span>
       </h1>
     </div>
 

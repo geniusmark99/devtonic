@@ -7,14 +7,14 @@ return <>
   
     <div className="mt-5 max-w-xl text-center mx-auto">
       <h1 className="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-4xl dark:text-neutral-200">
-        <span className="bg-clip-text text-transparent bg-gradient-to-tl   from-cyan-500 to-fuchsia-600">DevTonic </span>Consulting and Training
+        <span className="bg-clip-text text-transparent bg-gradient-to-tl  from-cyan-500 to-blue-600">AppAlchemy </span>Consulting and Training
       </h1>
     </div>
 
     <div className="mt-5 max-w-3xl text-center mx-auto">
       <p className="text-lg text-gray-600 dark:text-neutral-400">
 
-DevTonic Platform Consulting and Training
+AppAlchemy Platform Consulting and Training
 Let us build the business applications you need with Microsoft Power Apps, Power Automate, Power BI, Dataverse, Power Pages, Power Virtual Agents, Office 365, Copilot, and related Microsoft technologies. Whether you need
         
         .</p>

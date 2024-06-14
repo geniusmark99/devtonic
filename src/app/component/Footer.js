@@ -47,7 +47,7 @@ return <>
           </div> */}
 
           <div>
-            <h4 className="font-semibold text-gray-800 dark:text-neutral-200">DevTonic</h4>
+            <h4 className="font-semibold text-gray-800 dark:text-neutral-200">AppAlchemy</h4>
 
             {/* <div className="mt-3 grid space-y-3 text-sm">
               <p><button type="button" className="text-gray-500 hover:text-gray-900 dark:hover:text-neutral-300" onclick="$crisp.push(['do', 'chat:open'])">Contact Us</button></p>
@@ -76,7 +76,7 @@ return <>
           </div>
         </div>
 
-        <p className="text-xs sm:text-sm text-gray-600 dark:text-neutral-500">© 2024 DevTonic</p>
+        <p className="text-xs sm:text-sm text-gray-600 dark:text-neutral-500">© 2024 AppAlchemy</p>
       </div>
 
       <div className="bg-[radial-gradient(closest-side,rgb(124,58,237),rgb(91,33,182),transparent)] h-1"></div>

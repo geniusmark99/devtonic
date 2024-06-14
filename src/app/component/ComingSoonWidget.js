@@ -26,7 +26,7 @@ return <>
 </h1>
 
 <p className="max-w-3xl mx-auto mt-6 text-lg text-center text-gray-700 dark:text-white md:text-xl">
-DevTonic {pagename} page coming soon
+AppAlchemy {pagename} page coming soon
 </p>
 
 
